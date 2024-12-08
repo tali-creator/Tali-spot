@@ -14,7 +14,7 @@ export default function Details() {
 const [currentImg, setCurrentImg] = useState(null)
 const [showOrder, setShowOrder] = useState(false)
 
-  const url = "http://localhost:5000/food";
+  const url = "/foods.json";
   useEffect(() => {
     async function fetchFoods() {
       try {
@@ -23,7 +23,7 @@ const [showOrder, setShowOrder] = useState(false)
           throw Error("cannot fetch data");
         }
         const data = await res.json();
-        setFood(data);
+        setFood(data.food);
       } catch (error) {
         console.log(error);
         setError(error.message);

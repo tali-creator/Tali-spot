@@ -5,7 +5,7 @@ export default function Dashboard() {
   const [foods, setFood] = useState(null);
   const [error, setError] = useState("");
 
-  const url = "http://localhost:5000/food";
+  const url = "/foods.json";
   useEffect(() => {
     async function fetchFoods() {
       try {
@@ -15,7 +15,7 @@ export default function Dashboard() {
         }
         const data = await res.json();
         console.log(data);
-        setFood(data);
+        setFood(data.food);
       } catch (error) {
         console.log(error);
         setError(error.message);
