@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+
+@theme{
+
+  --color-primary: rgba(227, 127, 20, 1);
+  --color-secondary: rgba(118, 119, 153, 1);
+  --color-tertiary: rgba(8, 196, 39, 1);
+}
+
+a.active{
+  color:rgba(227, 127, 20, 1) ;
+  text-decoration: underline;
+}
+
+.animate-slide-in {
+  animation: slide-in .3s ease-out;
+}
+
+@keyframes slide-in {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  to{
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+
+#scroll-bar {
+  scrollbar-width: none;
+}
+.scroll-bar {
+  scrollbar-width: none;
+}

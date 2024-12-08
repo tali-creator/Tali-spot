@@ -1,0 +1,207 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": "Amala",
+            "price": "1000",
+            "images": [
+                "/Amala/amala-and-ewedu.jpeg",
+                "/Amala/amala-and-ugwu.jpg"
+            ],
+            "description": [
+                "Hot Amala with Ewedu Soup",
+                "Hot Amala with Ugwu Soup"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Fufu and Egusi",
+            "price": "1200",
+            "images": [
+                "/fufu/fufu-and-egusi.jpg",
+                "/fufu/fufu-and-egusi2.jpg"
+            ],
+            "description": [
+                "/Fufu mixed with egusi Soup",
+                "/Fufu mixed with egusi Soup"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Eba",
+            "price": "900",
+            "images": [
+                "/eba/eba-and-egusi.jpg",
+                "/eba/eba-and-ugwu.jpg"
+            ],
+            "description": [
+                "Hot Amala with Ewedu Soup",
+                "Hot Amala with Ugwu Soup"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Pounded Yam",
+            "price": "1500",
+            "images": [
+                "/pounded-yam/pounded-yam-3.jpg",
+                "/pounded-yam/pounded-yam-roll.webp",
+                "/pounded-yam/pounded-Yam.png",
+                "/pounded-yam/pounded-yam.webp",
+                "/pounded-yam/pounded-yam2.jpg"
+            ],
+            "description": [
+                "Pounded yam with Egusi",
+                "Pounded yam roll with Egusi",
+                "Pounded yam with Egusi and pomo",
+                "Hot Amala with Ugwu Soup",
+                "Hot Amala with Okra Soup"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Jellof Rice",
+            "price": "1500",
+            "images": [
+                "/jellof/jellof-and-chicken.jpeg",
+                "/jellof/jellof-and-chips.webp",
+                "/jellof/jellof-and-fish.jpg",
+                "/jellof/jellof-and-turkey.webp",
+                "/jellof/jellof.jpeg"
+            ],
+            "description": [
+                "Jellof Rice and Chicken",
+                "Jellof Rice and Chips",
+                "Jellof Rice and Fish",
+                "Jellof Rice and Turkey",
+                "Jellof Rice and Chicken"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Pizza",
+            "price": "15000",
+            "images": [
+                "/pizza/pizza3.jpg",
+                "/pizza/pizza1.webp",
+                "/pizza/pizza-slice.webp",
+                "/pizza/pizza-salami-close-up.webp"
+            ],
+            "description": []
+        },
+        {
+            "id": 7,
+            "name": "Burger",
+            "price": "7000",
+            "images": [
+                "/burger/burger5.avif",
+                "/burger/burger4.avif",
+                "/burger/burger3.avif",
+                "/burger/burger1.avif",
+                "/burger/burger-with-melted-cheese.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 8,
+            "name": "Noodles",
+            "price": "2000",
+            "images": [
+                "/noodles/plate-of-noodles-with-shrimps.webp",
+                "/noodles/noodles4.jpg",
+                "/noodles/noodles3.jpg",
+                "/noodles/noodles2.webp",
+                "/noodles/noodels1.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 9,
+            "name": "Samosa",
+            "price": "1500",
+            "images": [
+                "/samosa/somosa4.webp",
+                "/samosa/samosa3.jpg",
+                "/samosa/samosa2.webp",
+                "/samosa/samosa1.jpg"
+            ],
+            "description": [
+                "10 pieces of samosa"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Sushi",
+            "price": "3000",
+            "images": [
+                "/sushi/sushi4.jpg",
+                "/sushi/sushi3.jpg",
+                "/sushi/sushi2.jpg",
+                "/sushi/sushi.jpg",
+                "/sushi/sushi-roll-macro.webp",
+                "/sushi/sushi-1.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 11,
+            "name": "Pancake",
+            "price": "1000",
+            "images": [
+                "/pancake/pancake2.jpeg",
+                "/pancake/pancake3.webp",
+                "/pancake/pouring-honey-on-pancakes.webp",
+                "/pancake/Chocolate-Pancake.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 12,
+            "name": "Egg Role",
+            "price": "1500",
+            "images": [
+                "/eggroll/Chicken-egg-roll1.webp",
+                "/eggroll/kolkata-egg-roll2.jpeg",
+                "/eggroll/Kolkatta-Egg-Roll-3.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 13,
+            "name": "Donuts",
+            "price": "200",
+            "images": [
+                "/donut/donut1.jpeg",
+                "/donut/donut2.webp",
+                "/donut/donut3.jpeg",
+                "/donut/donut4.jpeg",
+                "/donut/donut5.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 14,
+            "name": "Coffee",
+            "price": "800",
+            "images": [
+                "/coffee/coffee.jpeg",
+                "/coffee/coffee1.webp",
+                "/coffee/coffee2.webp",
+                "/coffee/coffee3.jpg"
+            ],
+            "description": []
+        },
+        {
+            "id": 15,
+            "name": "Hot Chocolate",
+            "price": "1300",
+            "images": [
+                "/chocolate/chocolate-peppermint.jpg",
+                "/chocolate/hot-chocolate.webp",
+                "/chocolate/hot-chocolate2.jpg",
+                "/chocolate/hot-chocolate3.avif"
+            ],
+            "description": []
+        }
+    ]
+}
