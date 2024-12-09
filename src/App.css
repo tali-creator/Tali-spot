@@ -29,10 +29,16 @@ a.active{
   }
 }
 
-
+/* *>*>*{
+  outline: 2px solid red;
+} */
 #scroll-bar {
   scrollbar-width: none;
 }
 .scroll-bar {
   scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
